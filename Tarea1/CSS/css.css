@@ -1,0 +1,86 @@
+  * {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .principal {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #175884;
+    color: #fff;
+  }
+  
+  .foto {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    margin-bottom: 15px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  .subtitulo {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #dceefc;
+  }
+  
+  .universidad {
+    font-size: 22px;
+    color: #c7e4f8;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    background-color: #fff;
+    color: #175884;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  
+  h2 {
+    color: #175884;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  
+  .contacto a {
+    color: #175884;
+    text-decoration: none;
+  }
+  
+  .contacto a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #175884;
+    color: #fff;
+    margin-top: 40px;
+  }
+  
